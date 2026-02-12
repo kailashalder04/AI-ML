@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction – Data Cleaning & Preprocessing
+# 🚢 Titanic Survival – Data Cleaning & Preprocessing
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
@@ -85,7 +85,9 @@ Applied StandardScaler to normalize numerical distributions.
 | Stage | Rows | Columns |
 |-------|------|---------|
 | Raw Data | 891 | 12 |
-| Cleaned Data | 712 | 9 |
+| Cleaned Data | 513 | 9 |
+
+![CMD screen](cmd_output_screen.png)
 
 ---
 
