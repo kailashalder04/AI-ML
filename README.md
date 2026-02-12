@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-![Titanic Banner](images/titanic.png)
+![Titanic Banner](titanic.png)
 ---
 
 ## 📌 Project Overview
