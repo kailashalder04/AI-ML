@@ -103,8 +103,8 @@ Applied StandardScaler to normalize numerical distributions.
 
 Logistic Regression Accuracy: **~80%+**
 
----
 
-## 📁 Project Structure
+
+
 
 
